@@ -1,0 +1,2 @@
+# activity-generator
+github beauty
